@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Java Developer<br>I am Currently learning more about coding <br>I Have skills Core Java,Mysql,J2EE,Hibernate,Spring,html and Css<br>How to reach me : email -ajaydey890@gmail.com<br>Linkedin -linkedin.com/in/ajay-kumar-dey
+I am Java Developer<br>I am Currently learning more about coding <br>I Have skills Core Java,Mysql,J2EE,Hibernate,Spring,HTML5 & CSS3<br>How to reach me : email -ajaydey890@gmail.com<br>Linkedin -linkedin.com/in/ajay-kumar-dey
 
 
 ## 🌐 Socials:
